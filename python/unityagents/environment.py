@@ -34,7 +34,7 @@ class UnityEnvironment(object):
         """
 
         atexit.register(self.close)
-        self.port = base_port + worker_id
+        self.port = base_port + worker_id + 10
         self._buffer_size = 12000
         self._python_api = "API-2"
         self._loaded = False
