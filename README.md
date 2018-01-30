@@ -2,7 +2,7 @@
 
 # Experimenting with Unity ML-Agents.
 
-My JimminyCricket agent after training for five minutes is a poor thing, but I will continue training it for longer durations  : [Video](movie.mp4)
+My JimminyCricket agent after training for five minutes is a poor thing, but I will continue training it for longer durations  : [Video](https://youtu.be/LNVUItS1DWM)
 
 
 
