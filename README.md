@@ -1,7 +1,8 @@
 <img src="images/unity-wide.png" align="middle" width="3000"/>
+
 # Experimenting with Unity ML-Agents.
 
-[Video] (movie.mp4) of my agent after training for about 5 minutes (poor thing)
+My JimminyCricket agent after training for five minutes is a poor thing, but I will continue training it for longer durations  : [Video](movie.mp4)
 
 
 
